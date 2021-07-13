@@ -1,0 +1,47 @@
+body
+{
+	margin: 0 auto;
+	vertical-align: middle;
+	background-color: #1A1A1A;
+	background-image:url('../img/BG.jpg');
+}
+
+nav
+{
+	text-align: right;
+}
+
+div
+{
+	padding: 6px;
+	margin: 6px;
+	text-align: left;
+}
+
+.grey
+{
+	background-color: #DDD;
+}
+
+.w620
+{
+	width: 620px;
+}
+
+.w800
+{
+  width: 800px;
+}
+
+.w960
+{
+	width: 960px;
+}
+
+.center
+{
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: middle;
+	margin: 0 auto;
+}
